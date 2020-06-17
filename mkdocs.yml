@@ -1,6 +1,6 @@
 site_name: Documentation
-site_url: 'https://waterlinked.github.io'
-repo_url: https://github.com/waterlinked/docs
+site_url: 'https://ghese.github.io'
+repo_url: https://github.com/ghese/docs
 theme:
     name: material
     theme_dir: docstheme/material
